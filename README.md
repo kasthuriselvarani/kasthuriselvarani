@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Linux, Shell Scripting and DevOps Projects**
 - 🌱 I’m currently learning **Docker, Jenkins, AWS, Terraform, Ansible, Kubernetes, and CI/CD**
-- 👨‍💻 All of my projects are available at [My GitHub Projects](https://github.com/kasthuriselvarani/my_portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio_](https://github.com/kasthuriselvarani/my_portfolio)
 - 📫 How to reach me: **selvaranikasthuri929@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
